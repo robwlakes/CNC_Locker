@@ -22,13 +22,12 @@ A Chinese engraving machine (about $250 Australian)
   * Plus other bits and pieces to make it work. eg Backlash nuts
   * 1 240V-12V 1A laptop style power supply
   * 1 240V-24V 1A laptop power supply (not used).
-
-Plus...
-  * 0.1mm 30degree engraving tools
-  * 0.9mm drill bits
-  * 1 5mm Diam CNC tool chuck with collets
-  * 2mm milling bit
-  * Any extra hardware is detailed in the document eg wires and switches etc
+  *Plus...
+    * 0.1mm 30degree engraving tools
+    * 0.9mm drill bits
+    * 1 5mm Diam CNC tool chuck with collets
+    * 2mm milling bit
+    * Any extra hardware is detailed in the document eg wires and switches etc
   
 The following software:
   * Eagle PCB software (used within the licence for free, )
