@@ -4,7 +4,7 @@
 
 Milling PCB patterns into blank copper laminated boards is now a popular and effective alternative to using etch resistant technologies and etch baths. Arguably it is possible to get incredibly good results from photo quality design films and with good etching tanks, with very reliable results. However milling the track's pattern into the copper is now affordable thanks to sensibly priced Chinese engravers, and more importantly, now has the software back up, making the tool chains to produce boards this way very effective. Milling also has the added benefit of also allowing holes to be drilled and boards to be shaped.
 
-![alt text](/images/IMG_20170613_165610.jpg?raw=true "CNC PCB")
+![alt text](/CNC_Locker/images/IMG_20170613_165610.jpg?raw=true "CNC PCB")
 
 ## Document
 
